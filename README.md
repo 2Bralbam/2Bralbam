@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-- 🌱 I’m currently learning **Microsoft Azure, Arduino Cloud, Google Inroads & IoT**
+- 🌱 I’m currently learning **Microsoft Azure, Arduino Cloud, Google Inroads & IoT with ESP32**
 
 - 📫 How to reach me **bralbam1@gmail.com**
 
