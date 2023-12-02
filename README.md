@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate backend developer from México</h3>
-
+I try to learn a little bit of everything, I am not an expert, I try to prepare myself for all future challenges.
 - 🌱 I’m currently learning **Microsoft Azure, Arduino Cloud, Google Inroads & IoT with ESP32**
 
 - 📫 How to reach me **bralbam1@gmail.com**
